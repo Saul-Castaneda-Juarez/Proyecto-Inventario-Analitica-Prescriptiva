@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+entorno/
+.ipynb_checkpoints/
+.DS_Store
+# Dataset original (6 MB): descárgalo de Kaggle y colócalo en data/raw/
+data/raw/
